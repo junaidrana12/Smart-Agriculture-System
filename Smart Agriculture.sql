@@ -8,9 +8,9 @@ create database agriculture_db;
 );
 
 INSERT INTO crops (name, soil_type, season) VALUES
-('Wheat', 'Loamy', 'Winter'),
-('Rice', 'Clay', 'Monsoon'),
-('Sugarcane', 'Alluvial', 'Summer'),
-('Maize', 'Sandy', 'Kharif');
+('Wheat','Loamy', 'Winter'),
+('Rice','Clay','Monsoon'),
+('Sugarcane','Alluvial','Summer'),
+('Maize','Sandy','Kharif');
 
 
