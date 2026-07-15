@@ -2,8 +2,8 @@ create database agriculture_db;
 
    create table  crops (
    id BIGINT AUTO_INCREMENT PRIMARY KEY,
-    name varchar(100),
-    soil_type varchar(100),
+    name varchar(200),
+    soil_type varchar(200),
     season varchar(100)
 );
 
